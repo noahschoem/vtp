@@ -1,5 +1,7 @@
 module Main where
 
+import System.Environment
+
 import VTPLib
 
 main :: IO ()
